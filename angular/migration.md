@@ -94,6 +94,11 @@ ng update @angular/material@14
 ng update @angular/core@15 @angular/cli@15 --allow-dirty --force
 ```
 
+Documentation officiel : <https://angular.io/guide/update-to-version-15>
+Blog officiel : <https://blog.angular.io/angular-v15-is-now-available-df7be7f2f4c8>
+Autre doc : <https://blog.ninja-squad.com/2022/11/16/what-is-new-angular-15.0/>
+Standalone component : <https://angular.io/guide/standalone-components>
+
 Attention, le nouveau moteur de rendu ViewEngine n'existe plus, il ne reste qu'Ivy.
 
 La target JavaScript monte en "es2022" par défaut, mais c'est le fichier .browserlistrc qui indiquera réellement la target.
@@ -199,6 +204,10 @@ Ouvrir un fichier TS, puis HTML, puis SCSS, puis JSONv, puis ...
 ```bash
 ng update @angular/core@16 @angular/cli@16 --allow-dirty --force
 ```
+
+Documentation officiel : <https://angular.io/guide/update-to-version-16>
+Blog officiel : <https://blog.angular.io/angular-v16-is-here-4d7a28ec680d>
+Autre doc : <https://blog.ninja-squad.com/2023/05/03/what-is-new-angular-16.0/>
 
 ## Migration Angular 16 vers 17
 

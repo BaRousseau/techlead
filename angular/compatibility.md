@@ -16,3 +16,7 @@
 | 🔴 6 - 2       | ❌         | ❌         | ❌          | ❌          | ❌          | ❌          |
 
 <https://angular.io/guide/versions>
+
+## Version de Node
+
+<https://nodejs.org/en/about/previous-releases#looking-for-latest-release-of-a-version-branch>
