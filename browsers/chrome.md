@@ -5,6 +5,7 @@
 Archive : <https://fr.abcdef.wiki/wiki/Google_Chrome_version_history>
 Chromium Dashboard : <https://chromiumdash.appspot.com/schedule>
 Chrome Roadmap : <https://chromestatus.com/roadmap>
+Source V8 : <https://github.com/v8/v8>
 
 ## Versions par année
 
@@ -24,5 +25,5 @@ Chrome Roadmap : <https://chromestatus.com/roadmap>
 | 2019  | 🔴     | 72 - 79        | 7.2 - 7.9   |
 | 2020  | 🔴     | 80 - 87        | 8.0 - 8.7   |
 | 2021  | 🔴     | 88 - 96        | 8.8 - 9.6   |
-| 2022  | 🟢     | 97 - 108       | 9.5         |
-| 2023  | 🟢     | 109 - 120      |             |
+| 2022  | 🟢     | 97 - 108       | 9.7 - 10.8  |
+| 2023  | 🟢     | 109 - 120      | 10.9 - 12.0 |
