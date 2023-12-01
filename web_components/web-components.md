@@ -1,10 +1,11 @@
-# HTML Web Component
+# Web Component
 
-## Custom Elements
+Un HTML Web Component donne des super-pouvoirs à l'HTML.
+Puis on peut rajouter du JavaScript.
 
-<https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements>
+[Incubator WICG](https://github.com/WICG/webcomponents)
 
-## Articles
+## HTML Web Component - Articles
 
 Source : <https://www.zachleat.com/web/a-taxonomy-of-web-component-types/>
 
@@ -21,3 +22,11 @@ Source : <https://www.zachleat.com/web/a-taxonomy-of-web-component-types/>
 ## Exemple
 
 [HTML Web Components An Example — Jim Nielsen](https://blog.jim-nielsen.com/2023/html-web-components-an-example/)
+
+## JavaScript - Custom Elements
+
+<https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements>
+
+## CSS - Web Component
+
+* [CSS](/web_components/css.md)
