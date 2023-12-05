@@ -39,12 +39,12 @@ N'existe pas. Voir 3.1.
 
 ## ES5 (2009)
 
-```shell
-npm run es5
-```
+### "use strict"
 
-"use strict"
-String[number] access
+Déclarer une variable sans `var` devant, sans puis avec `"use strict"`.
+
+### String[number] access
+
 Multiline strings
 String.trim()
 Array.isArray()
@@ -68,6 +68,10 @@ Object methods
 Object defineProperty()
 Function bind()
 Trailing commas
+
+```shell
+npm run es5
+```
 
 ## Bonus 2010
 
