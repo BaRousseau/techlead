@@ -195,11 +195,40 @@ Ouvrir un fichier TS, puis HTML, puis SCSS, puis JSONv, puis ...
 - "Configure Default Formatter"
 - "Prettier - Code Formatter"
 
+## Standalone Component
+
+Prérequis :
+
+- Angular 15.2.0
+
+<https://angular.io/guide/standalone-migration>
+
+Run the migration in the order listed below, verifying that your code builds and runs between each step:
+
+- Run ng g @angular/core:standalone and select "Convert all components, directives and pipes to standalone"
+- Run ng g @angular/core:standalone and select "Remove unnecessary NgModule classes"
+- Run ng g @angular/core:standalone and select "Bootstrap the project using standalone APIs"
+- Run any linting and formatting checks, fix any failures, and commit the result
+
+Find and remove any remaining NgModule declarations: since the "Remove unnecessary NgModules" step cannot remove all modules automatically, you may have to remove the remaining declarations manually.
+
+- Run the project's unit tests and fix any failures.
+- Run any code formatters, if the project uses automatic formatting.
+- Run any linters in your project and fix new warnings. Some linters support a --fix flag that may resolve some of your warnings automatically.
+
 ## Migration Angular 15 vers 16
 
 ### Changelog 16
 
 <https://angular.io/guide/update-to-version-16>
+
+Prérequis :
+
+- Node.js v16 or v18
+
+Changements :
+
+- Angular Compatibility Compiler (ngcc) est supprimé !
 
 ```bash
 ng update @angular/core@16 @angular/cli@16 --allow-dirty --force
