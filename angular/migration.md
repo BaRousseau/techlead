@@ -266,3 +266,7 @@ Developer preview !
 ```bash
 ng generate @angular/core:control-flow
 ```
+
+## Deferrable views
+
+Developer preview !

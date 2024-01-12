@@ -12,6 +12,7 @@
 
 * [Compatibilité](/angular/compatibility.md)
 * [Migration](/angular/migration.md)
+* [Material](/angular/material.md)
 
 ## Navigateur
 
