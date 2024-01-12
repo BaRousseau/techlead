@@ -218,13 +218,13 @@ Find and remove any remaining NgModule declarations: since the "Remove unnecessa
 
 ## Migration Angular 15 vers 16
 
-### Changelog 16
-
-<https://angular.io/guide/update-to-version-16>
+Documentation officiel : <https://angular.io/guide/update-to-version-16>
+Blog officiel : <https://blog.angular.io/angular-v16-is-here-4d7a28ec680d>
+Autre doc : <https://blog.ninja-squad.com/2023/05/03/what-is-new-angular-16.0/>
 
 Prérequis :
 
-- Node.js v16 or v18
+- Node.js v16 ou v18
 
 Changements :
 
@@ -234,16 +234,35 @@ Changements :
 ng update @angular/core@16 @angular/cli@16 --allow-dirty --force
 ```
 
-Documentation officiel : <https://angular.io/guide/update-to-version-16>
-Blog officiel : <https://blog.angular.io/angular-v16-is-here-4d7a28ec680d>
-Autre doc : <https://blog.ninja-squad.com/2023/05/03/what-is-new-angular-16.0/>
-
 ## Migration Angular 16 vers 17
 
-### Changelog 17
+Documentation officiel : < TODO >
+Blog officiel : <https://blog.angular.io/introducing-angular-v17-4d7033312e4b>
+Autre doc : <https://blog.ninja-squad.com/2023/11/09/what-is-new-angular-17.0/>
+Update Tool : <https://update.angular.io/?l=3&v=16.0-17.0>
 
-Changelog TODO
+Prérequis :
+
+- Node.js v18 ou v20
+
+Changements :
+
+- Angular Signals
+- Faster builds with the esbuild developer preview
+- New Control Flow (Developer preview)
 
 ```bash
 ng update @angular/core@17 @angular/cli@17 --allow-dirty --force
+```
+
+## Angular Signals
+
+<https://angular.io/guide/signals>
+
+## New Control flow
+
+Developer preview !
+
+```bash
+ng generate @angular/core:control-flow
 ```
