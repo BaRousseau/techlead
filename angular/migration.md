@@ -248,7 +248,7 @@ Prérequis :
 Changements :
 
 - Angular Signals
-- Faster builds with the esbuild developer preview
+- Faster builds with the esbuild or 'application' builder <https://angular.io/guide/esbuild>
 - New Control Flow (Developer preview)
 
 ```bash
@@ -258,6 +258,7 @@ ng update @angular/core@17 @angular/cli@17 --allow-dirty --force
 ## Angular Signals
 
 <https://angular.io/guide/signals>
+<https://blog.ninja-squad.com/2023/04/26/angular-signals/>
 
 ## New Control flow
 
@@ -270,3 +271,5 @@ ng generate @angular/core:control-flow
 ## Deferrable views
 
 Developer preview !
+
+<https://blog.ninja-squad.com/2023/11/02/angular-defer/>
