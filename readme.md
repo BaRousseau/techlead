@@ -18,7 +18,3 @@
 ## Bootstrap
 
 * [Migration](/bootstrap/migration.md)
-
-## Navigateur
-
-* [Chrome](/browsers/chrome.md)
