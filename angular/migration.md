@@ -273,3 +273,7 @@ ng generate @angular/core:control-flow
 Developer preview !
 
 <https://blog.ninja-squad.com/2023/11/02/angular-defer/>
+
+## Migration Angular 17 vers 18
+
+<https://blog.ninja-squad.com/2024/05/22/what-is-new-angular-18.0/>
