@@ -1,12 +1,21 @@
 # Tech Lead
 
-## Evolution de ECMAScript
+## Concepts
 
-* [Evolution de ECMAScript](/ecmascript/evolution-es.md)
+* [Reactivity](/concepts/reactivity.md)
+
+## ECMAScript
+
+* [ECMAScript](/ecmascript/evolution-es.md)
+* [TC39 Signals](https://eisenbergeffect.medium.com/a-tc39-proposal-for-signals-f0bedd37a335)
+
+## CSS
+
+* <https://estelle.github.io/>
 
 ## Web Components
 
-* [Introduction](/web_components/web-components.md)
+* [Introduction](/web-components/web-components.md)
 
 ## Angular
 
@@ -18,3 +27,7 @@
 ## Node
 
 * [Releases](/node/releases.md)
+
+## What's next ?
+
+* [Effect](https://effect.website/docs/quickstart)
