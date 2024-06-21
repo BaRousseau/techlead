@@ -168,31 +168,49 @@ console.log(numbers.includes(3)); // Output: true
 
 ## ES2017
 
-- Added string padding
-- Added Object.entries()
-- Added Object.values()
-- Added async functions
-- Added shared memory
-- Allows trailing commas for function parameters
+- Object.values/Object.entries
+- String padding
+- Object.getOwnPropertyDescriptors
+- Trailing commas in function parameter lists and calls
+- Async functions
+- Shared memory and atomics
 
 ## ES2018
 
-- Added rest / spread properties
-- Added asynchronous iteration
-- Added Promise.finally()
-- Additions to RegExp
+- Lifting template literal restriction.
+- s (dotAll) flag for regular expressions.
+- Regexp named capture groups.
+- Rest/spread properties.
+- Regexp lookbehind assertions.
+- Regexp Unicode property escapes.
+- Promise.prototype.finally.
+- Asynchronous iteration.
 
 ## ES2019
 
-- String.trimStart()
-- String.trimEnd()
-- Array.flat()
+- Array#{flat,flatMap}
 - Object.fromEntries
-- Optional catch binding
+- String#{trimStart,trimEnd}
+- Symbol#description
+- try { } catch {}// optional binding
+- JSON⊂ECMAScript
+- well-formed JSON.stringify
+- stable Array#sort
+- revised Function#toString
+- BigInt primitive type (stage 3)
+- Dynamic import (stage 3)
+- Standardized globalThis object (stage 3)
 
 ## ES2020
 
-- The Nullish Coalescing Operator (??)
+- String.prototype.matchAll
+- import()
+- BigInt
+- Promise.allSettled
+- globalThis
+- for-in mechanics
+- Optional Chaining
+- Nullish coalescing Operator
 
 ## Sources
 
