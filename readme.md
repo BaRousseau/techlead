@@ -1,5 +1,13 @@
 # Tech Lead
 
+## What's up ?
+
+* [TypeScript](/whats-up/typescript.md)
+
+## What's next ?
+
+* [Effect](https://effect.website/docs/quickstart)
+
 ## Concepts
 
 * [Reactivity](/concepts/reactivity.md)
@@ -7,7 +15,8 @@
 ## ECMAScript
 
 * [ECMAScript](/ecmascript/evolution-es.md)
-* [TC39 Signals](https://eisenbergeffect.medium.com/a-tc39-proposal-for-signals-f0bedd37a335)
+* [TC39 Proposals](/ecmascript/tc39-proposals.md)
+* [Links](/ecmascript/links.md)
 
 ## CSS
 
@@ -28,6 +37,6 @@
 
 * [Releases](/node/releases.md)
 
-## What's next ?
+## Links
 
-* [Effect](https://effect.website/docs/quickstart)
+* [Emojipedia](https://emojipedia.org/unicode-1.1)

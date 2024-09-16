@@ -26,6 +26,7 @@ Source : <https://www.zachleat.com/web/a-taxonomy-of-web-component-types/>
 ## JavaScript - Custom Elements
 
 <https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements>
+<https://github.com/EisenbergEffect/hello-web-components>
 
 ## CSS - Web Component
 

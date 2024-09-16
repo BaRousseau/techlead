@@ -277,3 +277,5 @@ Developer preview !
 ## Migration Angular 17 vers 18
 
 <https://blog.ninja-squad.com/2024/05/22/what-is-new-angular-18.0/>
+
+<https://medium.com/@yann.tho.le.moigne/angular-18-est-disponible-8be12070f399>
